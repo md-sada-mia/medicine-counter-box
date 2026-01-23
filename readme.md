@@ -1,6 +1,6 @@
 # Medicine Counter Box
 
-A Computer Vision application designed to classify and count medicine boxes using deep learning. This project leverages a pre-trained Keras model to identify specific medicine brands (Napa, Ranitidine, Seclo) from images.
+A Computer Vision application designed to classify and count medicine boxes using deep learning. This project leverages a pre-trained Keras model to identify specific medicine brands (Napa, Ranitidine, Seclo) from images. 
 
 ## Features
 
